@@ -1,0 +1,5 @@
+homepage: "https://mdniamul.com"
+documentation: "https://github.com/mdniamul0/sgtm-hubspot-client#readme"
+versions:
+- sha: "5c61ef1409479a33509c0acd202d52278918e47c"
+  changeNotes: "Initial release."
