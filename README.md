@@ -2,7 +2,7 @@
 
 A free, open-source **server-side Google Tag Manager (sGTM) Client** that receives **HubSpot webhooks**, fetches the latest contact properties from the HubSpot CRM API, and runs your server container with that data.
 
-Built by **MD Niamul** — Data Analytics Architect, founder of [Digital Soldier Agency](https://mdniamul.com) and official Stape partner.
+Built by **[MD Niamul](https://mdniamul.com)** — Data Analytics Architect, founder of [Digital Soldier Agency](https://mdniamul.com) and official Stape partner.
 
 > Turn CRM lead-status changes into accurate offline conversions for Google Ads, Meta CAPI, GA4 and more — raw truth, no manipulated metrics.
 
